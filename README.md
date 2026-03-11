@@ -38,3 +38,4 @@ Concreet gaat het onder andere om:
 - Het herschrijven en structureren van componenten
 
 Alle AI-suggesties heb ik zelf beoordeeld, getest en waar nodig aangepast voordat ik ze heb toegepast in mijn project.
+# React-Advanced-Final2
